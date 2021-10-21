@@ -1,0 +1,396 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "jurusan" : "ilmu komunikasi",
+      "bobot": {
+        "nilaiRapot" : {
+          "matematika" : 5,
+          "bahasaIndonesia" : 20,
+          "bahasaInggris" : 10,
+          "fisika" : 0,
+          "kimia" : 0,
+          "biologi" : 0,
+          "sejarah" : 4,
+          "ekonomi" : 3,
+          "geografi" : 3,
+          "sosiologi" : 5
+        },
+        "nilaiKecerdasan" : {
+          "linguistik" : 20,
+          "logisMatematis" : 3,
+          "visualSpasial" : 3,
+          "kinestetik" : 3,
+          "musikal" : 3,
+          "interpersonal" : 10,
+          "intrapersonal" : 5,
+          "naturalis" : 3
+        }
+      }
+    },
+    {
+      "id": 2,
+      "jurusan" : "sastra",
+      "bobot": {
+        "nilaiRapot" : {
+          "matematika" : 5,
+          "bahasaIndonesia" : 25,
+          "bahasaInggris" : 7,
+          "fisika" : 0,
+          "kimia" : 0,
+          "biologi" : 0,
+          "sejarah" : 4,
+          "ekonomi" : 3,
+          "geografi" : 2,
+          "sosiologi" : 4
+        },
+        "nilaiKecerdasan" : {
+          "linguistik" : 20,
+          "logisMatematis" : 3,
+          "visualSpasial" : 3,
+          "kinestetik" : 3,
+          "musikal" : 3,
+          "interpersonal" : 5,
+          "intrapersonal" : 10,
+          "naturalis" : 3
+        }
+      }
+    },
+    {
+      "id": 3,
+      "jurusan" : "matematika",
+      "bobot": {
+        "nilaiRapot" : {
+          "matematika" : 25,
+          "bahasaIndonesia" : 5,
+          "bahasaInggris" : 5,
+          "fisika" : 6,
+          "kimia" : 6,
+          "biologi" : 3,
+          "sejarah" : 0,
+          "ekonomi" : 0,
+          "geografi" : 0,
+          "sosiologi" : 0
+        },
+        "nilaiKecerdasan" : {
+          "linguistik" : 5,
+          "logisMatematis" : 20,
+          "visualSpasial" : 9,
+          "kinestetik" : 2,
+          "musikal" : 4,
+          "interpersonal" : 4,
+          "intrapersonal" : 3,
+          "naturalis" : 3
+        }
+      }
+    },
+    {
+      "id": 4,
+      "jurusan" : "teknik",
+      "bobot": {
+        "nilaiRapot" : {
+          "matematika" : 15,
+          "bahasaIndonesia" : 4,
+          "bahasaInggris" : 6,
+          "fisika" : 15,
+          "kimia" : 8,
+          "biologi" : 2,
+          "sejarah" : 0,
+          "ekonomi" : 0,
+          "geografi" : 0,
+          "sosiologi" : 0
+        },
+        "nilaiKecerdasan" : {
+          "linguistik" : 3,
+          "logisMatematis" : 16,
+          "visualSpasial" : 10,
+          "kinestetik" : 5,
+          "musikal" : 3,
+          "interpersonal" : 7,
+          "intrapersonal" : 2,
+          "naturalis" : 4
+        }
+      }
+    },
+    {
+      "id": 5,
+      "jurusan" : "Komputer",
+      "bobot": {
+        "nilaiRapot" : {
+          "matematika" : 20,
+          "bahasaIndonesia" : 7,
+          "bahasaInggris" : 11,
+          "fisika" : 5,
+          "kimia" : 3,
+          "biologi" : 4,
+          "sejarah" : 0,
+          "ekonomi" : 0,
+          "geografi" : 0,
+          "sosiologi" : 0
+        },
+        "nilaiKecerdasan" : {
+          "linguistik" : 4,
+          "logisMatematis" : 23,
+          "visualSpasial" : 12,
+          "kinestetik" : 2,
+          "musikal" : 2,
+          "interpersonal" : 2,
+          "intrapersonal" : 2,
+          "naturalis" : 3
+        }
+      }
+    },
+    {
+      "id": 6,
+      "jurusan" : "arsitektur",
+      "bobot": {
+        "nilaiRapot" : {
+          "matematika" : 16,
+          "bahasaIndonesia" : 5,
+          "bahasaInggris" : 10,
+          "fisika" : 10,
+          "kimia" : 4,
+          "biologi" : 5,
+          "sejarah" : 0,
+          "ekonomi" : 0,
+          "geografi" : 0,
+          "sosiologi" : 0
+        },
+        "nilaiKecerdasan" : {
+          "linguistik" : 4,
+          "logisMatematis" : 12,
+          "visualSpasial" : 20,
+          "kinestetik" : 4,
+          "musikal" : 3,
+          "interpersonal" : 2,
+          "intrapersonal" : 2,
+          "naturalis" : 3
+        }
+      }
+    },
+    {
+      "id": 7,
+      "jurusan" : "seni dan DKV",
+      "bobot": {
+        "nilaiRapot" : {
+          "matematika" : 8,
+          "bahasaIndonesia" : 10,
+          "bahasaInggris" : 10,
+          "fisika" : 0,
+          "kimia" : 0,
+          "biologi" : 0,
+          "sejarah" : 5,
+          "ekonomi" : 5,
+          "geografi" : 6,
+          "sosiologi" : 6
+        },
+        "nilaiKecerdasan" : {
+          "linguistik" : 10,
+          "logisMatematis" : 4,
+          "visualSpasial" : 20,
+          "kinestetik" : 3,
+          "musikal" : 5,
+          "interpersonal" : 2,
+          "intrapersonal" : 4,
+          "naturalis" : 2
+        }
+      }
+    },
+    {
+      "id": 8,
+      "jurusan" : "olahraga",
+      "bobot": {
+        "nilaiRapot" : {
+          "matematika" : 8,
+          "bahasaIndonesia" : 10,
+          "bahasaInggris" : 8,
+          "fisika" : 0,
+          "kimia" : 0,
+          "biologi" : 0,
+          "sejarah" : 6,
+          "ekonomi" : 6,
+          "geografi" : 6,
+          "sosiologi" : 6
+        },
+        "nilaiKecerdasan" : {
+          "linguistik" : 4,
+          "logisMatematis" : 4,
+          "visualSpasial" : 7,
+          "kinestetik" : 20,
+          "musikal" : 3,
+          "interpersonal" : 6,
+          "intrapersonal" : 2,
+          "naturalis" : 4
+        }
+      }
+    },
+    {
+      "id": 9,
+      "jurusan" : "musik",
+      "bobot": {
+        "nilaiRapot" : {
+          "matematika" : 10,
+          "bahasaIndonesia" : 8,
+          "bahasaInggris" : 8,
+          "fisika" : 0,
+          "kimia" : 0,
+          "biologi" : 0,
+          "sejarah" : 6,
+          "ekonomi" : 6,
+          "geografi" : 6,
+          "sosiologi" : 6
+        },
+        "nilaiKecerdasan" : {
+          "linguistik" : 7,
+          "logisMatematis" : 3,
+          "visualSpasial" : 3,
+          "kinestetik" : 3,
+          "musikal" : 25,
+          "interpersonal" : 2,
+          "intrapersonal" : 5,
+          "naturalis" : 2
+        }
+      }
+    },
+    {
+      "id": 10,
+      "jurusan" : "psikologi",
+      "bobot": {
+        "nilaiRapot" : {
+          "matematika" : 3,
+          "bahasaIndonesia" : 5,
+          "bahasaInggris" : 5,
+          "fisika" : 0,
+          "kimia" : 0,
+          "biologi" : 0,
+          "sejarah" : 8,
+          "ekonomi" : 5,
+          "geografi" : 4,
+          "sosiologi" : 20
+        },
+        "nilaiKecerdasan" : {
+          "linguistik" : 4,
+          "logisMatematis" : 2,
+          "visualSpasial" : 2,
+          "kinestetik" : 2,
+          "musikal" : 2,
+          "interpersonal" : 8,
+          "intrapersonal" : 12,
+          "naturalis" : 2
+        }
+      }
+    },
+    {
+      "id": 11,
+      "jurusan" : "pertanian dan peternakan",
+      "bobot": {
+        "nilaiRapot" : {
+          "matematika" : 4,
+          "bahasaIndonesia" : 4,
+          "bahasaInggris" : 4,
+          "fisika" : 3,
+          "kimia" : 15,
+          "biologi" : 20,
+          "sejarah" : 0,
+          "ekonomi" : 0,
+          "geografi" : 0,
+          "sosiologi" : 0
+        },
+        "nilaiKecerdasan" : {
+          "linguistik" : 3,
+          "logisMatematis" : 2,
+          "visualSpasial" : 3,
+          "kinestetik" : 8,
+          "musikal" : 2,
+          "interpersonal" : 10,
+          "intrapersonal" : 2,
+          "naturalis" : 20
+        }
+      }
+    },
+    {
+      "id": 12,
+      "jurusan" : "akuntansi",
+      "bobot": {
+        "nilaiRapot" : {
+          "matematika" : 10,
+          "bahasaIndonesia" : 5,
+          "bahasaInggris" : 4,
+          "fisika" : 0,
+          "kimia" : 0,
+          "biologi" : 0,
+          "sejarah" : 4,
+          "ekonomi" : 20,
+          "geografi" : 3,
+          "sosiologi" : 4
+        },
+        "nilaiKecerdasan" : {
+          "linguistik" : 8,
+          "logisMatematis" : 15,
+          "visualSpasial" : 5,
+          "kinestetik" : 3,
+          "musikal" : 4,
+          "interpersonal" : 8,
+          "intrapersonal" : 4,
+          "naturalis" : 3
+        }
+      }
+    },
+    {
+      "id": 13,
+      "jurusan" : "ekonomi dan manajemen",
+      "bobot": {
+        "nilaiRapot" : {
+          "matematika" : 5,
+          "bahasaIndonesia" : 5,
+          "bahasaInggris" : 4,
+          "fisika" : 0,
+          "kimia" : 0,
+          "biologi" : 0,
+          "sejarah" : 4,
+          "ekonomi" : 25,
+          "geografi" : 3,
+          "sosiologi" : 4
+        },
+        "nilaiKecerdasan" : {
+          "linguistik" : 3,
+          "logisMatematis" : 6,
+          "visualSpasial" : 5,
+          "kinestetik" : 10,
+          "musikal" : 3,
+          "interpersonal" : 15,
+          "intrapersonal" : 5,
+          "naturalis" : 3
+        }
+      }
+    },
+    {
+      "id": 14,
+      "jurusan" : "kesehatan",
+      "bobot": {
+        "nilaiRapot" : {
+          "matematika" : 5,
+          "bahasaIndonesia" : 10,
+          "bahasaInggris" : 5,
+          "fisika" : 3,
+          "kimia" : 10,
+          "biologi" : 17,
+          "sejarah" : 0,
+          "ekonomi" : 0,
+          "geografi" : 0,
+          "sosiologi" : 0
+        },
+        "nilaiKecerdasan" : {
+          "linguistik" : 4,
+          "logisMatematis" : 4,
+          "visualSpasial" : 4,
+          "kinestetik" : 5,
+          "musikal" : 2,
+          "interpersonal" : 17,
+          "intrapersonal" : 6,
+          "naturalis" : 8
+        }
+      }
+    }
+  ]
+}
