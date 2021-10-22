@@ -14,7 +14,7 @@ export const getMajors = async (req, res) => {
 // function get single Major
 export const getMajorById = async (req, res) => {
   try {
-    const major = await Major.findById(req.params.id);
+    const major = await Major.find({id: req.params.id});
     res.json(major);
   } catch (error) {
     res.status(404).json({message: error.message});
@@ -34,10 +34,10 @@ export const saveMajor = async (req, res) => {
  
 // function Update Major
 export const updateMajor = async (req, res) => {
-  const cekId = await Major.findById(req.params.id);
+  const cekId = await Major.find({id: req.params.id});
   if(!cekId) return res.status(404).json({message: "Data tidak ditemukan"}); 
   try {
-    const updatedMajor = await Major.updateOne({_id: req.params.id}, {$set: req.body});
+    const updatedMajor = await Major.updateOne({id: req.params.id}, {$set: req.body});
     res.status(200).json(updatedMajor);
   } catch (error) {
     res.status(400).json({message: error.message});
@@ -46,10 +46,10 @@ export const updateMajor = async (req, res) => {
  
 // function Delete Major
 export const deleteMajor = async (req, res) => {
-  const cekId = await Major.findById(req.params.id);
+  const cekId = await Major.find({id: req.params.id});
   if(!cekId) return res.status(404).json({message: "Data tidak ditemukan"});
   try {
-    const deletedMajor = await Major.deleteOne({_id: req.params.id});
+    const deletedMajor = await Major.deleteOne({id: req.params.id});
       res.status(200).json(deletedMajor);
   } catch (error) {
     res.status(400).json({message: error.message});
